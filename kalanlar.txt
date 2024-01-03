@@ -1,0 +1,21 @@
+Darcey                   Parker                   Fizik                    58.0                     Kaldý
+Amara Allen              Eloise                   Kimya MÃ¼h               69.4                     Kaldý
+Brynn                    Thomas                   Kimya MÃ¼h               75.2                     Kaldý
+James                    Harper                   Bilgisayar MÃ¼h          75.8                     Kaldý
+John                     Hunter                   Fizik                    61.2                     Kaldý
+William                  Hussain                  Fizik MÃ¼h               69.0                     Kaldý
+Richard                  Jeff                     Matematik                61.2                     Kaldý
+Charles Booth            Hamish                   Bilgisayar MÃ¼h          62.4                     Kaldý
+Daniel                   Porter                   Fizik MÃ¼h               68.0                     Kaldý
+Martin                   Hank                     Bilgisayar MÃ¼h          79.3                     Kaldý
+Kenneth                  Rogers                   Fizik                    59.7                     Kaldý
+Tim                      Jack                     Matematik MÃ¼h           72.1                     Kaldý
+Edward Frankie           Adams                    Fizik                    86.8                     Kaldý
+Ronald                   Tate                     Bilgisayar MÃ¼h          68.8                     Kaldý
+Anthony                  Casper                   Fizik MÃ¼h               64.8                     Kaldý
+Jo                       Khan                     Matematik MÃ¼h           47.8                     Kaldý
+Bev                      Cunningham               Kimya MÃ¼h               67.8                     Kaldý
+Amalia                   Atkinson                 Fizik MÃ¼h               70.8                     Kaldý
+Marley Sienna            Robertson                Bilgisayar MÃ¼h          87.3                     Kaldý
+Jemima                   Fox                      Matematik MÃ¼h           58.3                     Kaldý
+Taylor                   Evans                    Kimya MÃ¼h               72.9                     Kaldý
